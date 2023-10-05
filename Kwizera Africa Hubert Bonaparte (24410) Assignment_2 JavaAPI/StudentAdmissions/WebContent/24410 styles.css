@@ -1,0 +1,144 @@
+body {
+    margin: 3;
+    padding: 0;
+    background-color: #00008B;
+    color: #fff; 
+  }
+
+  header {
+    background-color: #300aab;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 3;
+    padding: 0;
+    background-color: #f2f2f2;
+    overflow: hidden;
+  }
+
+  nav li {
+    float: left;
+  }
+
+  nav li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+
+  nav li a:hover {
+    background-color: #ddd;
+  }
+
+  .content {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  body {
+    margin: 3;
+    padding: 0;
+  }
+
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 3;
+    padding: 0;
+    background-color: #f2f2f2;
+    overflow: hidden;
+  }
+
+  nav li {
+    float: left;
+  }
+
+  nav li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+
+  nav li a:hover {
+    background-color: #ddd;
+  }
+
+  .content {
+    padding: 20px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+    border-right: 2px solid #ddd;
+    border-top:2px solid #ddd;
+    border-left:2px solid #ddd;
+    
+  }
+
+  th {
+    background-color: #00008B;
+  }
+  ol {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+  }
+
+  ol li {
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  textarea {
+    height: 150px;
+    width: 300px;
+  }
+  input{
+    height: 30px;
+    width: 220px;
+
+  }
+  input[type="submit"] {
+    height: 50px;
+    width: 180px;
+    border-radius: 10px;
+    margin:20px;
+  }
+  body {
+    background-image: url("img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  .body.page-24410 {
+    background-image: none; 
+  }
+  
+  
